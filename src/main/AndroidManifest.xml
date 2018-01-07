@@ -3,7 +3,6 @@
     package="com.domus.tankhah.elementes">
 
     <application>
-        <activity android:name=".simple_app.MainActivity"></activity>
     </application>
 
 </manifest>
