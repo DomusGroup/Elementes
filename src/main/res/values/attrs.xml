@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DCView" >
+        <attr name="font" format="string"/>
+        <attr name="format" format="integer">
+            <enum name="normal" value="0"/>
+            <enum name="normal_number_persian" value="1"/>
+            <enum name="amount_persian" value="2"/>
+        </attr>
+    </declare-styleable>
+
+</resources>
